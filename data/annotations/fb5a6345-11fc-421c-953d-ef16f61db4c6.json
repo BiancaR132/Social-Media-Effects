@@ -1,5 +1,195 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction to the video, questioning the relationship between social media/phone usage and the effects it may be causing on sleep"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Introduction",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9696e94b-3139-4e16-bcc0-1ad615ae8581"
+    },
+    {
+      "start_time": 23,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussing how the use of screens before bedtime has always been considered to have negative effects on the quality of your sleep "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cause",
+          "category": "Study"
+        }
+      ],
+      "uuid": "62edae52-1938-495d-8dc4-38e8eed30734"
+    },
+    {
+      "start_time": 43,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introducing the fact that there is now research on this case. It does include a disclaimer stating that the findings used in this video are only from the one single study which has been conducted on this topic. Therefore the evidence shown could be found to be untrue if later research is conducted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Research",
+          "category": "Study"
+        }
+      ],
+      "uuid": "ae4f7221-65d0-4352-ab1b-9f9f3f01e7d3"
+    },
+    {
+      "start_time": 89,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This discusses the 2020 study which was conducted to see what the effects of phone usage before bed are on: sleep wuality, mood, and memory. The experiment is then explained, with a sample size of 38 students they tested how no phone or social media usage 30 minutes before sleep and unlimited phone usage would compare and effect sleep. They them into two seperate groups to see what the effects would be. The people involved in this experiment were screened to make sure other factors would not skew the research such as: No medical conditions, no excess alcohol or caffiene, no sleep disorders, and no sleep medication."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Research",
+          "category": "Study"
+        }
+      ],
+      "uuid": "c5ff4fa5-5b36-4a17-8b4d-2bdbaf408e77"
+    },
+    {
+      "start_time": 150,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After 4 weeks the results can be seen with the people who did not use their phones 30 minutes before bed reducing the time it takes them to fall asleep by 12 minutes. The duration of their sleep increased by 18 minutes. Measures of sleep quality also were seen to have improved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Results",
+          "category": "Study"
+        }
+      ],
+      "uuid": "624c1dbd-e99c-41ff-bf0b-3e5deca34df1"
+    },
+    {
+      "start_time": 175,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of Pre-sleep arousal and how the sensations experienced by phone usage right before bed lead to people finding it harder to fall asleep. This reduced when the phone usage reduced."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Effects",
+          "category": "Study"
+        }
+      ],
+      "uuid": "cd1ab9bf-d4d5-403c-99a7-74d575385552"
+    },
+    {
+      "start_time": 196,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moods improved whilst functiionality indicators like reaction time and memory were also seen to have improved. Links sleep to cognitive function."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Results",
+          "category": "Study"
+        }
+      ],
+      "uuid": "81c054a2-70d9-48f7-a3bf-dde7438e5001"
+    },
+    {
+      "start_time": 240,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Potential limitations of the study, small sample size. Discusses blue light effects on sleep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Research",
+          "category": "Study"
+        }
+      ],
+      "uuid": "fa06085f-1c58-497e-8e4e-1324bf7c3178"
+    },
+    {
+      "start_time": 307,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusion",
+          "category": "Overview"
+        }
+      ],
+      "uuid": "21eeeeea-6c95-422e-9623-2aff5e12084f"
+    }
+  ],
   "set": "Default",
   "event_id": "219346a8-2939-4424-b194-0ca5a19405f5",
   "source_id": "8e30c753-72f3-4216-aff9-147271cb2c15"
