@@ -1,0 +1,220 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Barton, N., & Smyth, M. (2025). Context-switching in short-form videos: What is the impact on prospective memory? Memory (Hove), 33(7), 788–801. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1080/09658211.2025.2521076",
+          "children": [
+            {
+              "text": "https://doi.org/10.1080/09658211.2025.2521076"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "This study investigates how rapidly switching between unrelated short-form video topics disrupts prospective memory—the ability to remember and execute intended actions in the future. The findings indicate that high-frequency context shifts overtax executive function, causing severe memory interference and reduced daily task recall. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wei, M., Liu, J., Wang, H., Li, Q., & Dong, G.-H. (2026). Fragmented learning from short videos modulates neural activity and connectivity during memory retrieval. NPJ Science of Learning, 11(1), Article 15. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1038/s41539-025-00399-y",
+          "children": [
+            {
+              "text": "https://doi.org/10.1038/s41539-025-00399-y"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "This article demonstrates that consuming fragmented short-video content alters functional neural connectivity during memory retrieval. The authors reveal that continuous exposure to rapid, short-burst content weakens prefrontal cortex activity, impairing the brain's ability to systematically organize and recall complex information. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gong, C., & Yang, Y. (2024). Google effects on memory: a meta-analytical review of the media effects of intensive Internet search behavior. Frontiers in Public Health, 12, 1332030. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3389/fpubh.2024.1332030",
+          "children": [
+            {
+              "text": "https://doi.org/10.3389/fpubh.2024.1332030"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "This meta-analysis evaluates the systemic cognitive impact of \"Digital Amnesia.\" The authors synthesize evidence showing that when individuals expect information to be perpetually accessible on digital platforms, memory encoding shifts from retaining explicit facts to merely remembering platform retrieval pathways (transactive memory)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Firth, J., Torous, J., Stubbs, B., Firth, J. A., Steiner, G. Z., Smith, L., Alvarez-Jimenez, M., Gleeson, J., Vancampfort, D., Armitage, C. J., & Sarris, J. (2019). The “online brain”: How the Internet may be changing our cognition. World Psychiatry, 18(2), 119–129. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1002/wps.20617",
+          "children": [
+            {
+              "text": "https://doi.org/10.1002/wps.20617"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "This comprehensive review analyzes how high-density digital environments alter cognitive architecture. The study provides evidence that constant social media stream-checking overloads working memory capacity, preventing the deep semantic processing required to transfer short-term inputs into durable long-term memory stores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Uncapher, M. R., K. Thieu, M., & Wagner, A. D. (2016). Media multitasking and memory: Differences in working memory and long-term memory. Psychonomic Bulletin & Review, 23(2), 483–490. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3758/s13423-015-0907-3",
+          "children": [
+            {
+              "text": "https://doi.org/10.3758/s13423-015-0907-3"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Examining the relationship between media multitasking and cognitive control, this study shows that chronic multitaskers exhibit reduced attentional stability during initial memory encoding. Consequently, this degraded encoding phase leads directly to poorer long-term retrieval performance and higher vulnerability to memory distortion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Additional Readings",
+  "parent": "cbbeb29e-76fe-4889-bd6b-e761c7cdbb4e",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "additional-readings-2-3-4",
+  "created_at": "2026-10-26T22:44:19.115Z",
+  "created_by": "BiancaR132",
+  "updated_at": "2026-10-26T22:44:19.115Z",
+  "updated_by": "BiancaR132"
+}
