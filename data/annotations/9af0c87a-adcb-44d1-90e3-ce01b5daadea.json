@@ -1,5 +1,195 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro hook: Fast-cut user quotes questioning how the algorithm knows them intimately, establishing immediate cognitive engagement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Title",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "dcf781b1-517f-4247-922b-2525c5af359d"
+    },
+    {
+      "start_time": 40,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rapid visual transitions and dynamic text overlays: Average Shot Length < 2s prevents deep cognitive rehearsal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fast Pacing / Sensory Overload",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "cda0219c-883f-429c-91fc-2a177817ed3a"
+    },
+    {
+      "start_time": 75,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bot experiment setup: Visualizing how micro-behaviors (watch time/lingering) act as primary algorithmic signals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Information Overload",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "f8c04f6a-8ad7-4b0d-938d-5eff8fa70e29"
+    },
+    {
+      "start_time": 125,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aggressive scene pacing: Continuous novel stimuli flood working memory, causing sensory overload."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fast Pacing / Sensory Overload",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "cdfb881f-3146-4ae4-a724-d409bef5a2cf"
+    },
+    {
+      "start_time": 190,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Niche mapping visualization: Demonstrates algorithmic rabbit-holing based on implicit user vulnerabilities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transactive Memory",
+          "category": "Memory Mechanisms"
+        }
+      ],
+      "uuid": "20103cb5-4dfb-4963-bf67-b098598c833f"
+    },
+    {
+      "start_time": 330,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Depressive content deluge: Rapid succession of emotional triggers causes cognitive friction and shallow processing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Information Overload",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "013cddb4-de86-49aa-ab90-c0cb823dcfd3"
+    },
+    {
+      "start_time": 525,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narrowing recommendations: Algorithm narrows focus to extreme content, reinforcing transactive memory reliance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context Switching",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "71bea370-6306-4aa5-816a-a66f7a49d215"
+    },
+    {
+      "start_time": 602,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Engagement mechanics vs. critical thinking: High-velocity delivery disables deep semantic reflection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Information Overload",
+          "category": "Cognitive Load Analysis"
+        }
+      ],
+      "uuid": "123ac1c4-675a-4a74-82ed-4a76c5c81dde"
+    },
+    {
+      "start_time": 725,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conclusion on algorithmic influence: Final synthesis on how pervasive short-form algorithms hijack human attention and memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusion",
+          "category": "Overview"
+        }
+      ],
+      "uuid": "f2fcd0e9-ffdf-4634-a821-9f6ad2b8242b"
+    }
+  ],
   "set": "Default",
   "event_id": "1d42632c-55fa-4bf4-a862-dcfa74751d34",
   "source_id": "e9c83405-9e93-49e1-af5b-3c0015d186f4"
