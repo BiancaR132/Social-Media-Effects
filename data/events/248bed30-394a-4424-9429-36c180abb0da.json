@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "83ce9fb4-dd21-4065-9b47-d59b0dec920c": {
+      "label": "From Homosapiens to FOMOsapiens: The Ordeal of Screen Time Addiction | Khurram Sadiq | TEDxLCWU",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=Blow2xXSpNY",
+      "duration": 1072
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "TEDX Talks. (2020, January 22). From Homosapiens to FOMOsapiens: The Ordeal of Screen Time Addiction | Khurram Sadiq | TEDxLCWU [Video]. YouTube. https://youtu.be/Blow2xXSpNY",
+  "label": "New Age of Addiction through Social Media",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This video is a talk hosted by psychiatrist Khurram Sadiq regarding the way Fear of Missing Out (FOMO) has become a root cause for the ongoing Screen Time addiction in this digital age."
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-10-27T00:00:48.595Z",
+  "created_by": "BiancaR132",
+  "updated_at": "2026-10-27T00:00:48.595Z",
+  "updated_by": "BiancaR132"
+}
