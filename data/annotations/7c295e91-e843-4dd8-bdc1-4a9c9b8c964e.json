@@ -1,5 +1,314 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This hook towards the audience helps people understand the problematic situation before recognizing their own involvement in it. These include behaviours such as compulsive checking reinforced by notifications, social expectations, and the possibility of new information and social feedback. Amirthalingam and Khera (2024) identify these as some of the many leading factors in social media’s setting for addiction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "7e2d7fd7-d459-4143-9d3b-49f236b4d7a7"
+    },
+    {
+      "start_time": 66,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These social media consumption statistics have since been updated. As of 2026, all of these statistics have increased by an estimated 10-20%. Additionally, there are now 5.16 billion active social media users worldwide, with 95% of children having a form of social media account, mainly TikTok, YouTube, Instagram, and Snapchat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Statistics",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "86a90e41-7f0c-414d-a61b-67b77efc8eb4"
+    },
+    {
+      "start_time": 226,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digital natives describe the generation that grew up surrounded by digital technology. However, this does not lead to a greater implication of whether or not they have developed the appropriate skills to regulate the new set of habits formed within this environment. Most individuals under this term are still in adolescence, in which cognitive development is imperative in developing executive functions such as planning, impulse control, and decision-making."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "1d853e7a-2101-4575-9da4-6441587a164d"
+    },
+    {
+      "start_time": 247,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main takeaway from the casino analogy is the manner in which they reinforce learning and form an unpredictable reward system. Social media users receive this same kind of environment due to a lack of guarantee of reward (ie. a notification, an interesting post, a like, or a message). This is what leads to the behaviour of repeatedly checking one’s phone in the anticipation of a possible reward. De et al. (2025) expound on this further by their findings that internet addiction can cause a biological shift in the prefrontal cortex, leading to an increased sensitivity to stimuli whilst having reduced inhibitory control. This can lead to erratic decision-making and sudden emotional changes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "f41f1cb5-85b4-40b7-906d-5eac896f05fa"
+    },
+    {
+      "start_time": 315,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reed Hastings, Netflix’ former CEO had stated that “Sleep is my greatest enemy” in reference to the growth of the company, not only focusing on his direct competitors but looking at what he can capitalize on a user’s day. This point introduces the commercial incentive behind the persuasion of digital technology. These platforms benefit from sustained user engagement and aim to maximise profit, which proves to cause significant ethical concerns when they are aimed towards adolescents. There is a conflict between the commercial engagement goals and the user’s wellbeing, wherein they benefit from an algorithm that does not keep individuals’ mental health at the forefront of importance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Background",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "3224f144-d0a6-4b50-ad2e-576f26ebb480"
+    },
+    {
+      "start_time": 362,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This anecdote illustrates how problematic use can develop gradually, becoming notable only after it begins to interfere with daily routines and relationships if suddenly stopped. This is then connected to the concept of “fear of missing out” (FOMO), the anxiety that other people are having rewarding experiences without you. This desire may be disconnected from a person's individual feelings of whether or not they actually want to be there, and is then overcome by the fear of what would happen if they were not. Studies conducted by De et al. found that adolescents who experienced this were more prone to social media addiction (while in addition negatively affecting their quality of sleep)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "eb80df04-9849-494f-9263-44c776139063"
+    },
+    {
+      "start_time": 485,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section can be connected to the relationship between digital behaviour, social connection, and psychological wellbeing. The problematic use of social media may then start to interfere with the user’s offline relationships when it displaces meaningful interaction, especially when social comparison and feedback-seeking may contribute to further distress. However, online communication can also strengthen friendships and provide support, particularly for people who feel isolated offline. The impact therefore depends on the quality and context of the interaction, not simply the amount of time spent on a screen. The creation of an online space means complexities and nuances for different types of dynamics, and it is now a matter of identifying them to better understand their effects on people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "db10710e-4ec9-4fee-8903-2f072b72fc29"
+    },
+    {
+      "start_time": 543,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Khurram Sadiq’s description of short reward hits can be linked to the brain’s reward-learning system. Dopamine cannot simply be reduced to feeling happiness, but it contributes to learning, motivation, and the anticipation of rewards. The overactivation of the dopamine system that can take place due to problematic social media usage does not immediately lead to addiction. However, it does increase individuals’ risk of it through the increased possibility of reduced reward sensitivity. A condition wherein the brain experiences an impaired response to rewarding stimuli, and therefore may seek more intense reactions to satisfy their desire for stimulation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "a0c617fd-b4a9-4970-9eba-260992b843a1"
+    },
+    {
+      "start_time": 662,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neuroplasticity is the brain’s capacity to change in response to further learning, more experience, and repeated activity. Because childhood and adolescence are periods of ongoing cognitive development, repeated patterns of attention and behaviour are relevant to how young people learn to manage distractions, retain information, and regulate their actions. Additionally, for older individuals, the efficiency of this process may slow, but they retain the same capability to do so. Neuroplasticity is possible for both negative and positive behaviour to be reinforced."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "184a45e9-3cf9-493c-8f08-f408d2d06b88"
+    },
+    {
+      "start_time": 748,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Attachment theory provides a framework for understanding how relationships are formed early on in our lives, and how it shaped expectations of security, support, and interpersonal connection later on. Social media may become a source of reassurance through messages, likes, and responses. This is especially true if it is a person who seeks and relies on external validation in order to feel a sense of belongingness. Amirthalingam and Khera (2024) discuss low self-esteem, peer pressure, and social influences associated with increased problematic use."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "698bb81f-ab27-46dc-9e13-4a9827ba216c"
+    },
+    {
+      "start_time": 819,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The link between mental health symptoms and the problematic use of social media is not causal. Based on research conducted by Saleem, Young, and Yousuf in 2024, in children aged 5-18, there was an association between poor social media use and depressive and anxiety episodes through sleep deprivation, social comparison, and feedback-seeking as possible mechanisms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "c450923f-488e-4462-9d47-89fde04f7af2"
+    },
+    {
+      "start_time": 912,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In psychology terms, the proposed solution can be connected to behavioural self-regulation and environmental design. The overall goal of these changes is to be more intentional with your relationship with technology. Amirthalingam and Khera (2024) suggest mindfulness, education, and boundaries as a potential approach, while emphasizing the role others in your life play as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "1033d1bf-afd5-480c-b2fd-bbb5fade4336"
+    }
+  ],
   "set": "Default",
   "event_id": "248bed30-394a-4424-9429-36c180abb0da",
   "source_id": "83ce9fb4-dd21-4065-9b47-d59b0dec920c"
