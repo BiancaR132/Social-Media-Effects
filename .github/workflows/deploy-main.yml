@@ -20,7 +20,7 @@ jobs:
       cancel-in-progress: true
     steps:
       - name: Checkout project repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Read in the project file
         id: project
@@ -30,7 +30,7 @@ jobs:
           prefix: project
 
       - name: Checkout project-client
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: AVAnnotate/project-client
           path: "./client"
@@ -59,7 +59,7 @@ jobs:
       - name: Setup Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Make a manifests directory if it does not exist
         run: mkdir -p "./client/src/content/manifests"
@@ -68,14 +68,14 @@ jobs:
         run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -s 'false'
 
       - name: Build Astro Client
-        uses: withastro/action@v4
+        uses: withastro/action@v6
         with:
           path: "./client"
 
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v6
         env:
           name: github-pages
           url: ${{ steps.deployment.outputs.page_url }}
