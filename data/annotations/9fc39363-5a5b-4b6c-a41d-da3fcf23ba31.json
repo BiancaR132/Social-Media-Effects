@@ -99,6 +99,31 @@
         }
       ],
       "uuid": "95f4a9ff-2fe6-4dab-8815-c671505fcda3"
+    },
+    {
+      "start_time": 315,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reed Hastings, Netflix’ former CEO had stated that “Sleep is my greatest enemy” in reference to the growth of the company, not only focusing on his direct competitors but looking at what he can capitalise on a user’s day. This point introduces the commercial incentive behind the persuasion of digital technology. These platforms benefit from sustained user engagement and aim to maximise profit, which proves to cause significant ethical concerns when they are aimed towards adolescents. There is a conflict between the commercial engagement goals and the user’s wellbeing, wherein they benefit from an algorithm that does not keep individuals’ mental health at the forefront of importance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Background",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "03a95fb0-465f-4cf6-9ffd-c255d791685e"
     }
   ],
   "set": "Default",
