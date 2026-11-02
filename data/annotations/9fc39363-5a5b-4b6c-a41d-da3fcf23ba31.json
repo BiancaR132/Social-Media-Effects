@@ -178,6 +178,35 @@
         }
       ],
       "uuid": "d052358e-a9f8-49ed-986a-cbd265185a02"
+    },
+    {
+      "start_time": 543,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Khurram Sadiq’s description of short reward hits can be linked to the brain’s reward-learning system. Dopamine cannot simply be reduced to feeling happiness, but it contributes to learning, motivation, and the anticipation of rewards. The over-activation of the dopamine system that can take place due to problematic social media usage does not immediately lead to addiction. However, it does increase individuals’ risk of it through the increased possibility of reduced reward sensitivity. A condition wherein the brain experiences an impaired response to rewarding stimuli, and therefore may seek more intense reactions to satisfy their desire for stimulation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Biology",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "d7414aa1-e64d-43ba-be54-a2df7a43bb79"
     }
   ],
   "set": "Default",
