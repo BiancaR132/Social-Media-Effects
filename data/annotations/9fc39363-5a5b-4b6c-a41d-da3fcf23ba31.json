@@ -153,6 +153,31 @@
         }
       ],
       "uuid": "6e76b892-07c7-41fb-80f2-b78b801da974"
+    },
+    {
+      "start_time": 485,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section can be connected to the relationship between digital behaviour, social connection, and psychological wellbeing. The problematic use of social media may then start to interfere with the user’s offline relationships when it displaces meaningful interaction, especially when social comparison and feedback-seeking may contribute to further distress. However, online communication can also strengthen friendships and provide support, particularly for people who feel isolated offline. The impact therefore depends on the quality and context of the interaction, not simply the amount of time spent on a screen. The creation of an online space means complexities and nuances for different types of dynamics, and it is now a matter of identifying them to better understand their effects on people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "d052358e-a9f8-49ed-986a-cbd265185a02"
     }
   ],
   "set": "Default",
