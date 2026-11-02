@@ -207,6 +207,27 @@
         }
       ],
       "uuid": "d7414aa1-e64d-43ba-be54-a2df7a43bb79"
+    },
+    {
+      "start_time": 662,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neuroplasticity is the brain’s capacity to change in response to further learning, more experience, and repeated activity. Because childhood and adolescence are periods of ongoing cognitive development, repeated patterns of attention and behaviour are relevant to how young people learn to manage distractions, retain information, and regulate their actions. Additionally, for older individuals, the efficiency of this process may slow, but they retain the same capability to do so. Neuroplasticity is possible for both negative and positive behaviour to be reinforced."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "ac265cb5-2c0c-4cb9-a8ff-214e906831c2"
     }
   ],
   "set": "Default",
