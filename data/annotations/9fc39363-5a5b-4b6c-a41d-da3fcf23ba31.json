@@ -282,6 +282,27 @@
         }
       ],
       "uuid": "b49ab0cf-a7a8-4f50-8bec-b3463c5d1a82"
+    },
+    {
+      "start_time": 912,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In psychology terms, the proposed solution can be connected to behavioural self-regulation and environmental design. The overall goal of these changes is to be more intentional with your relationship with technology. Amirthalingam and Khera (2024) suggest mindfulness, education, and boundaries as a potential approach, while emphasizing the role others in your life play as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "2b18db2c-473b-4c16-ae55-c4cfb80ce222"
     }
   ],
   "set": "Default",
