@@ -228,6 +228,31 @@
         }
       ],
       "uuid": "ac265cb5-2c0c-4cb9-a8ff-214e906831c2"
+    },
+    {
+      "start_time": 748,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Attachment theory provides a framework for understanding how relationships are formed early on in our lives, and how it shaped expectations of security, support, and interpersonal connection later on. Social media may become a source of reassurance through messages, likes, and responses. This is especially true if it is a person who seeks and relies on external validation in order to feel a sense of belongingness. Amirthalingam and Khera (2024) discuss low self-esteem, peer pressure, and social influences associated with increased problematic use."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "7da7f4bc-5424-49c3-9b2a-4bc825323b17"
     }
   ],
   "set": "Default",
