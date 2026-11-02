@@ -253,6 +253,35 @@
         }
       ],
       "uuid": "7da7f4bc-5424-49c3-9b2a-4bc825323b17"
+    },
+    {
+      "start_time": 819,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The link between mental health symptoms and the problematic use of social media is not causal. Based on research conducted by Saleem, Young, and Yousuf in 2024, in children aged 5-18, there was an association between poor social media use and depressive and anxiety episodes through sleep deprivation, social comparison, and feedback-seeking as possible mechanisms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "b49ab0cf-a7a8-4f50-8bec-b3463c5d1a82"
     }
   ],
   "set": "Default",
