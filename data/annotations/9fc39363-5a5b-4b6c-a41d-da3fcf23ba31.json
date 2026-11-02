@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 9,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This hook towards the audience helps people understand the problematic situation before recognizing their own involvement in it. These include behaviours such as compulsive checking reinforced by notifications, social expectations, and the possibility of new information and social feedback. Amirthalingam and Khera (2024) identify these as some of the many leading factors in social media’s setting for addiction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Background",
+          "category": "Titles"
+        },
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "77af333f-94ea-4af5-8bc8-7c526904cc2f"
+    }
+  ],
   "set": "Default",
   "event_id": "ad12619e-eed4-4343-bef5-020d8d91ea69",
   "source_id": "f910a352-00cc-42b8-b8c2-710dcd06c03e"
