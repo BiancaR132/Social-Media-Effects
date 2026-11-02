@@ -49,6 +49,31 @@
         }
       ],
       "uuid": "53b8e62d-0dcf-4608-96c4-1d85c6c6988d"
+    },
+    {
+      "start_time": 226,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digital natives describe the generation that grew up surrounded by digital technology. However, this does not lead to a greater implication of whether or not they have developed the appropriate skills to regulate the new set of habits formed within this environment. Most individuals under this term are still in adolescence, in which cognitive development is imperative in developing executive functions such as planning, impulse control, and decision-making."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "5f2ddd20-6c9b-40a2-befa-d758c703e7e5"
     }
   ],
   "set": "Default",
