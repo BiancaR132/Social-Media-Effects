@@ -124,6 +124,35 @@
         }
       ],
       "uuid": "03a95fb0-465f-4cf6-9ffd-c255d791685e"
+    },
+    {
+      "start_time": 362,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This anecdote illustrates how problematic use can develop gradually, becoming notable only after it begins to interfere with daily routines and relationships if suddenly stopped. This is then connected to the concept of “fear of missing out” (FOMO), the anxiety that other people are having rewarding experiences without you. This desire may be disconnected from a person's individual feelings of whether or not they actually want to be there, and is then overcome by the fear of what would happen if they were not. Studies conducted by De et al. found that adolescents who experienced this were more prone to social media addiction (while in addition negatively affecting their quality of sleep)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Term Descriptions",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "6e76b892-07c7-41fb-80f2-b78b801da974"
     }
   ],
   "set": "Default",
