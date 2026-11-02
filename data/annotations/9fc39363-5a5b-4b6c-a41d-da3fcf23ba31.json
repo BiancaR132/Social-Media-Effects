@@ -24,6 +24,31 @@
         }
       ],
       "uuid": "77af333f-94ea-4af5-8bc8-7c526904cc2f"
+    },
+    {
+      "start_time": 66,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These social media consumption statistics have since been updated. As of 2026, all of these statistics have increased by an estimated 10-20%. Additionally, there are now 5.16 billion active social media users worldwide, with 95% of children having a form of social media account, mainly TikTok, YouTube, Instagram, and Snapchat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Statistics",
+          "category": "Common Concepts"
+        },
+        {
+          "tag": "Adolescent",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "53b8e62d-0dcf-4608-96c4-1d85c6c6988d"
     }
   ],
   "set": "Default",
