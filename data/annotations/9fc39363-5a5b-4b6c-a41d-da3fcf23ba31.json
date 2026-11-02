@@ -74,6 +74,31 @@
         }
       ],
       "uuid": "5f2ddd20-6c9b-40a2-befa-d758c703e7e5"
+    },
+    {
+      "start_time": 247,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main takeaway from the casino analogy is the manner in which they reinforce learning and form an unpredictable reward system. Social media users receive this same kind of environment due to a lack of guarantee of reward (ie. a notification, an interesting post, a like, or a message). This is what leads to the behaviour of repeatedly checking one’s phone in the anticipation of a possible reward. De et al. (2025) expound on this further by their findings that internet addiction can cause a biological shift in the prefrontal cortex, leading to an increased sensitivity to stimuli whilst having reduced inhibitory control. This can lead to erratic decision-making and sudden emotional changes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Studies",
+          "category": "Titles"
+        },
+        {
+          "tag": "Problematic Social Media Use",
+          "category": "Common Concepts"
+        }
+      ],
+      "uuid": "95f4a9ff-2fe6-4dab-8815-c671505fcda3"
     }
   ],
   "set": "Default",
