@@ -5,7 +5,8 @@
       "children": [
         {
           "text": "Social Media - The Cognitive Effects",
-          "textSize": "heading-one"
+          "textSize": "heading-one",
+          "underline": true
         }
       ]
     },
@@ -64,7 +65,7 @@
   "created_at": "2026-10-26T22:23:43.697Z",
   "created_by": "BiancaR132",
   "title": "Social Media - The Cognitive Effects",
-  "updated_at": "2026-11-03T23:18:15.660Z",
+  "updated_at": "2026-11-03T23:21:27.502Z",
   "updated_by": "BiancaR132",
   "autogenerate": {
     "enabled": false,
