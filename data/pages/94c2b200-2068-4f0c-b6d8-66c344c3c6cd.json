@@ -1,10 +1,134 @@
 {
   "content": [
     {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Social Media - The Cognitive Effects",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "This AVAnnotate project examines the relationship between social media use and cognitive functioning, exploring how prolonged exposure, social disconnection, and the presentation of idealised or distorted realities may influence psychological and cognitive processes. The project investigates five key areas: addiction, stress and anxiety, memory, concentration, and sleep. It considers how algorithmic design and reward-based mechanisms may reinforce habitual use by activating the brain’s dopamine-mediated reward pathways, potentially contributing to problematic patterns of engagement. Through a series of individual videos, the project explores the cognitive and psychological implications associated with social media use, critically examining its potential effects on everyday functioning and overall well-being. Each video focuses on a distinct issue and presents evidence-informed strategies to mitigate these effects, promoting greater awareness of digital habits and encouraging healthier, more intentional engagement with social media."
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "How to Have a Healthier Experience Online",
+          "link": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online/https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online/"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "What Happens To Your brain When You Mindlessly Scroll",
+          "link": "https://biancar132.github.io/Social-Media-Effects/events/what-happens-to-your-brain-when-you-mindlessl/"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Your Phone is RUINING Your Sleep",
+          "link": "https://biancar132.github.io/Social-Media-Effects/events/your-phone-is-ruining-your-sleep/"
+        },
+        {
+          "type": "link",
+          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "How TikTok's Algorithm Figures You Out",
+          "link": "https://biancar132.github.io/Social-Media-Effects/events/how-tiktoks-algorithm-figures-you-out/"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "New Age of Addiction through Social Media",
+          "link": "https://biancar132.github.io/Social-Media-Effects/events/new-age-of-addiction-through-social-media/"
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "",
+          "link": "https://biancar132.github.io/Social-Media-Effects/tags/"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://3.files.edl.io/10c3/24/10/22/173621-76977eca-c7f8-4fa2-967b-023bc4b8be09.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "(For additional readings please use the menu on the top left of the page) "
         }
       ]
     }
@@ -12,7 +136,7 @@
   "created_at": "2026-10-26T22:23:43.697Z",
   "created_by": "BiancaR132",
   "title": "Social Media - The Cognitive Effects",
-  "updated_at": "2026-11-03T22:20:35.111Z",
+  "updated_at": "2026-11-03T22:53:52.720Z",
   "updated_by": "BiancaR132",
   "autogenerate": {
     "enabled": false,
