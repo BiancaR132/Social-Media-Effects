@@ -18,83 +18,26 @@
       ]
     },
     {
-      "type": "heading-one",
+      "type": "heading-two",
       "children": [
-        {
-          "text": "How to Have a Healthier Experience Online",
-          "link": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online/https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online/"
-        }
-      ]
-    },
-    {
-      "type": "heading-one",
-      "children": [
-        {
-          "text": "What Happens To Your brain When You Mindlessly Scroll",
-          "link": "https://biancar132.github.io/Social-Media-Effects/events/what-happens-to-your-brain-when-you-mindlessl/"
-        }
-      ]
-    },
-    {
-      "type": "heading-one",
-      "children": [
-        {
-          "text": "Your Phone is RUINING Your Sleep",
-          "link": "https://biancar132.github.io/Social-Media-Effects/events/your-phone-is-ruining-your-sleep/"
-        },
-        {
-          "type": "link",
-          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://biancar132.github.io/Social-Media-Effects/events/how-to-have-a-healthier-experience-online",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
         {
           "text": ""
         }
       ]
     },
     {
-      "type": "heading-one",
+      "type": "table-of-contents",
       "children": [
         {
-          "text": "How TikTok's Algorithm Figures You Out",
-          "link": "https://biancar132.github.io/Social-Media-Effects/events/how-tiktoks-algorithm-figures-you-out/"
+          "text": ""
         }
       ]
     },
     {
-      "type": "heading-one",
+      "type": "paragraph",
       "children": [
         {
-          "text": "New Age of Addiction through Social Media",
-          "link": "https://biancar132.github.io/Social-Media-Effects/events/new-age-of-addiction-through-social-media/"
+          "text": ""
         }
       ]
     },
@@ -128,7 +71,7 @@
       "type": "heading-one",
       "children": [
         {
-          "text": "(For additional readings please use the menu on the top left of the page) "
+          "text": "(For audiovisual clips and additional readings please use the menu on the top left of the page) "
         }
       ]
     }
@@ -136,7 +79,7 @@
   "created_at": "2026-10-26T22:23:43.697Z",
   "created_by": "BiancaR132",
   "title": "Social Media - The Cognitive Effects",
-  "updated_at": "2026-11-03T22:53:52.720Z",
+  "updated_at": "2026-11-03T23:00:11.667Z",
   "updated_by": "BiancaR132",
   "autogenerate": {
     "enabled": false,
